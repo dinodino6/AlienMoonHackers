@@ -7,4 +7,4 @@ Listen to the zulch.mp3 file inlcuded in the repository to wipe clean your brain
 
 OPEN 24 hours 365 days a year!
 
-Visit https://en.wikipedia.org/wiki/Grey_alien to learn more about our people
+Visit https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings to read about some of our previous projects 
