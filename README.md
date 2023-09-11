@@ -2,7 +2,7 @@
 Welcome!
 
 <figure>
-  <img src="url_to_image" alt="Green alien sitting in a car">
+  <img src="jeff.jpg" alt="Green alien sitting in a car">
   <figcaption>Our hacker technicians are at your service whenever needed</figcaption>
 </figure>
 
