@@ -1,4 +1,8 @@
 # AlienMoonHackers
+Welcome!
+
+![Alt Text](url_to_image)
+
 We're a group of extraterrestrials from the moon who will hack ANYBODY for $20 
 
 Service anywhere. Any time. Teleport your enemies into the void of space only $499
