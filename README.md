@@ -1,7 +1,11 @@
 # AlienMoonHackers
 Welcome!
 
-![Alt Text](url_to_image)
+<figure>
+  <img src="url_to_image" alt="Green alien sitting in a car">
+  <figcaption>Our hacker technicians are at your service whenever needed</figcaption>
+</figure>
+
 
 We're a group of extraterrestrials from the moon who will hack ANYBODY for $20 
 
