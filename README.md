@@ -3,8 +3,9 @@ Welcome!
 
 <figure>
   <img src="jeff.jpg" alt="Green alien sitting in a car">
-  <figcaption>Our hacker technicians are at your service whenever needed</figcaption>
+  <figcaption>Our hacker technicians are at your service whenever needed!</figcaption>
 </figure>
+
 
 
 We're a group of extraterrestrials from the moon who will hack ANYBODY for $20 
